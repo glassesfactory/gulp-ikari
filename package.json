@@ -1,0 +1,37 @@
+{
+  "name": "gulp-ikari",
+  "description": "ikari compiler",
+  "version": "0.1.0",
+  "homepage": "https://github.com/glassesfactory/gulp-ikari/",
+  "author": {
+    "name": "Yamaguchi Eikichi",
+    "email": "megane@glasses-factory.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/glassesfactory/gulp-ikari"
+  },
+  "bugs": {
+    "url": "https://github.com/glassesfactory/gulp-ikari/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "scripts": {},
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+
+  "dependencies": {
+    "through2": "^2.0.0"
+  },
+
+
+  "keywords": [
+    "template"
+  ],
+
+  "readme": "explosion!"
+}
